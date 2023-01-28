@@ -1,6 +1,6 @@
 ### Hi, I am Asliddin Tursunov <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47uqunyujdrege7gtltslvn3s6qly2hchlux88ft1u&rid=giphy.gif&ct=s" width="40px">
 
-I am student of IUT </br>
+I am a student of IUT </br>
 I make projects just for me :)
 
 <a href="https://t.me/farkhodovich_04">
