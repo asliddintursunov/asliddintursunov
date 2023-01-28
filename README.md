@@ -4,5 +4,5 @@ I am student of IUT
 I make projects just for me :)
 
 <a href="https://t.me/farkhodovich_04">
-  My Telegram Profile <img src="https://seeklogo.com/images/T/telegram-new-2019-simple-logo-FAD5A4800F-seeklogo.com.png" width="30px">
+  My Telegram Profile <img src="https://seeklogo.com/images/T/telegram-new-2019-simple-logo-FAD5A4800F-seeklogo.com.png" width="25px">
 </a>
