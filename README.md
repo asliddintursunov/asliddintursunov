@@ -11,6 +11,6 @@ I make projects just for me :)
 ### Languages and tools that I work with :
 <code><img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="30px"></code>
 <code>  <img src="https://image.pngaaa.com/311/3920311-middle.png" width="25px"></code>
-<code>  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="30px" background-color="white"></code>
-<code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="30px"></code>
+<code>  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="30px"></code>
+<code>  <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="30px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="30px"></code>
