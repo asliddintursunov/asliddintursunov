@@ -13,6 +13,6 @@ I make projects just for me :)
 <code>  <img src="https://image.pngaaa.com/311/3920311-middle.png" width="25px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="30px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30px"> </code>
-<code>  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepng.fr%2Fpng-drpc5u%2F&psig=AOvVaw2R_jkzvFyKC8wbVTqKsHmK&ust=1679953279454000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjrzuXH-v0CFQAAAAAdAAAAABAE" width="30px"> </code>
+<code>  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmasteringjs.io%2Ftutorials%2Fvue%2Flogo&psig=AOvVaw3RUSx1egiWmC20bVy6xOiJ&ust=1679953369452000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiGo5DI-v0CFQAAAAAdAAAAABAP" width="30px"> </code>
 <code>  <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="30px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="30px"></code>
