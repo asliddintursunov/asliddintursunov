@@ -13,6 +13,6 @@ I make projects just for me :)
 <code>  <img src="https://image.pngaaa.com/311/3920311-middle.png" width="25px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="30px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30px"> </code>
-<code>  <h3 color="green" display="inline-block"> Vue JS </h3> </code>
+<h3 color="green" display="inline-block"> Vue JS </h3>
 <code>  <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="30px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="30px"></code>
