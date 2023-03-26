@@ -13,6 +13,6 @@ I make projects just for me :)
 <code>  <img src="https://image.pngaaa.com/311/3920311-middle.png" width="25px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="30px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30px"> </code>
-<code>  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcrocodic.com%2Fmengenal-vue-js%2F&psig=AOvVaw3RUSx1egiWmC20bVy6xOiJ&ust=1679953369452000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiGo5DI-v0CFQAAAAAdAAAAABAa" width="30px"> </code>
+<code>  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvuejsfeed.com%2Fblog%2Fadding-vue-js-to-a-deployed-website&psig=AOvVaw3RUSx1egiWmC20bVy6xOiJ&ust=1679953369452000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiGo5DI-v0CFQAAAAAdAAAAABAy" width="30px"> </code>
 <code>  <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="30px"></code>
 <code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="30px"></code>
