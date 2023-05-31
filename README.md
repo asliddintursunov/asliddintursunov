@@ -8,11 +8,16 @@ I make projects just for me :)
 </a>
 </br>
 
-### Languages and tools that I work with :
-<code><img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="30px"></code>
-<code>  <img src="https://image.pngaaa.com/311/3920311-middle.png" width="25px"></code>
-<code>  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="30px"></code>
-<code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30px"> </code>
-<h3> Vue JS </h3>
-<code>  <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="30px"></code>
-<code>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="30px"></code>
+### Languages 
+<code>C++</code>
+<code>JavaScript</code>
+<code>TypeScript (basics)</code>
+
+### Framework, tech-s
+<code>React</code>
+<code>Vue js</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>CSCC/SASS</code>
+<code>Axios</code>
+<code>Git/GitHub</code>
