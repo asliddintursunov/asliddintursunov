@@ -15,9 +15,10 @@ I make projects just for me :)
 
 ### Framework, tech-s
 <code>React</code>
-<code>Vue js</code>
-<code>HTML</code>
-<code>CSS</code>
+<code>Vue js (basics)</code>
+<code>HTML5</code>
+<code>CSS4</code>
+<code>Tailwind CSS</code>
 <code>CSCC/SASS</code>
 <code>Axios</code>
 <code>Git/GitHub</code>
