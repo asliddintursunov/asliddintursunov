@@ -19,6 +19,6 @@ I make projects just for me :)
 <code>HTML</code>
 <code>CSS</code>
 <code>Tailwind CSS</code>
-<code>CSCC/SASS</code>
+<code>SCSS/SASS</code>
 <code>Axios</code>
 <code>Git/GitHub</code>
