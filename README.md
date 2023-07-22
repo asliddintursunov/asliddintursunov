@@ -18,6 +18,7 @@ I make projects just for me :)
 <code>Vue js (basics)</code>
 <code>HTML</code>
 <code>CSS</code>
+<code>Bootstrap</code>
 <code>Tailwind CSS</code>
 <code>SCSS/SASS</code>
 <code>Axios</code>
