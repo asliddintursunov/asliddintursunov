@@ -10,6 +10,7 @@ I make projects just for me :)
 
 ### Languages 
 <code>C++</code>
+<code>Java</code>
 <code>JavaScript</code>
 <code>TypeScript (basics)</code>
 
