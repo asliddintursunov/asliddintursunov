@@ -2,11 +2,11 @@
 
 Student of Inha University in Tashkent </br>
 
-<a href="https://t.me/farkhodovich_04">
+<a href="https://t.me/farkhodovich_04" display="flex">
   My Telegram Profile <img src="https://seeklogo.com/images/T/telegram-new-2019-simple-logo-FAD5A4800F-seeklogo.com.png" width="25px">
 </a>
 <br/>
-<a href="https://www.linkedin.com/in/asliddin-tursunov/">
+<a href="https://www.linkedin.com/in/asliddin-tursunov/" display="flex">
   My Linkedin Profile <img src="https://w7.pngwing.com/pngs/1002/775/png-transparent-in-logo-linkedin-facebook-social-media-font-awesome-icon-linkedin-blue-text-trademark-thumbnail.png" width="25px">
 </a>
 
