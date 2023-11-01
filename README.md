@@ -6,7 +6,7 @@ Student of Inha University in Tashkent </br>
   <img src="https://seeklogo.com/images/T/telegram-new-2019-simple-logo-FAD5A4800F-seeklogo.com.png" width="25px">
 </a>
 <br/>
-<a href="https://www.linkedin.com/in/asliddin-tursunov/">
+<a href="https://www.linkedin.com/in/asliddin-tursunov-74564b253/">
  <img src="https://w7.pngwing.com/pngs/1002/775/png-transparent-in-logo-linkedin-facebook-social-media-font-awesome-icon-linkedin-blue-text-trademark-thumbnail.png" width="25px">
 </a>
 
