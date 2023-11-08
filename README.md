@@ -18,7 +18,7 @@ Student of Inha University in Tashkent </br>
 <code>JavaScript</code>
 <code>TypeScript</code>
 
-### Framework, tech-s
+### Framework, Techs
 <code>HTML</code>
 <code>CSS</code>
 <code>SCSS/SASS</code>
