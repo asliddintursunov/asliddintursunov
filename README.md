@@ -14,7 +14,6 @@ Student of Inha University in Tashkent </br>
 
 ### Languages 
 <code>C++</code>
-<code>Java</code>
 <code>JavaScript</code>
 <code>TypeScript</code>
 
@@ -26,6 +25,8 @@ Student of Inha University in Tashkent </br>
 <code>Tailwind CSS</code>
 <code>Git/GitHub</code>
 <code>React</code>
+<code>Next js</code>
 <code>Redux Toolkit</code>
 <code>Radix UI</code>
+<code>Daisy UI</code>
 <code>Axios</code>
