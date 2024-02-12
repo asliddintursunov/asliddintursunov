@@ -16,17 +16,13 @@ Student of Inha University in Tashkent </br>
 <code>C++</code>
 <code>JavaScript</code>
 <code>TypeScript</code>
+<code>Python</code>
 
 ### Framework, Techs
-<code>HTML</code>
-<code>CSS</code>
-<code>SCSS/SASS</code>
-<code>Bootstrap</code>
-<code>Tailwind CSS</code>
+<code>Bootstrap/Tailwind CSS</code>
 <code>Git/GitHub</code>
 <code>React</code>
 <code>Next js</code>
 <code>Redux Toolkit</code>
-<code>Radix UI</code>
-<code>Daisy UI</code>
+<code>Radix UI and Daisy UI</code>
 <code>Axios</code>
