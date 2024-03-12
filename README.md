@@ -24,5 +24,6 @@ Student of Inha University in Tashkent </br>
 <code>React</code>
 <code>Next js</code>
 <code>Redux Toolkit</code>
-<code>Radix UI and Daisy UI</code>
-<code>Axios</code>
+<code>Flask</code>
+<code>PostgreSQL</code>
+<code>Linux Ubuntu</code>
